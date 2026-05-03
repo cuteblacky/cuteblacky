@@ -1,6 +1,6 @@
 ## Hi there 👋 
 
-<!--
+
 **cuteblacky/cuteblacky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,5 +13,4 @@ Here are some ideas to get you started:
 - 💬 I've got a bunch of pinned projects...
 - 📫 How to reach me: iamcuteblacky@gmail.com...
 - ⚡ Fun fact: ...
--->
  
