@@ -7,7 +7,7 @@
 - 😄 My main tech stack is react, typescript, tailwind CSS, Flutter, Framer motion. My favorite tools are Asana, Canva, figma, adobe creative collection.
 - 💬 I've got a bunch of pinned projects.
 - 📫 How to reach me: iamcuteblacky@gmail.com.
-  
+-
 - ⚡ Fun fact:
    - I enjoy teaching
  
