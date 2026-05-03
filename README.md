@@ -7,7 +7,7 @@
 - ✨ My favorite tools: Asana, Canva, figma, adobe creative collection.
 - 👯 I’m open to collaborate with other developers.
 - 💬 I've got a bunch of pinned projects.
-- 📫 How to reach me: iamcuteblacky@gmail.com.
+- 📫 Contact: iamcuteblacky@gmail.com.
 - ⚡ Fun fact:
    - I enjoy teaching
  
