@@ -10,7 +10,6 @@
 <div align="center">
         <h1><img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" height="35px" alt="hello">I'm Cornelius, a frontend developer based in Brazil</h1>
         
-    </div>
     
 <div>
         <table align="center">
@@ -34,14 +33,14 @@
 
 <div style="clear: both; margin-top: 160px">
         <p align="center">
-        👾I design and build whatever i can imagine 🌐
+        🌱 I design and build whatever i can imagine 🌐
 
 </p>
 
 
 
     - 🔭 I'm Cornelius, a frontend developer based in Brazil.
-- 🌱 I design and build whatever i can imagine.
+- 
 - ✨ When an idea pops in my head, chances are i'll build it and ship it.
 - 😄 My main tech stack: React, Typescript, Tailwind CSS, Flutter, Framer motion.
 - 💬 My favorite tools: Asana, Canva, figma, adobe creative collection.
