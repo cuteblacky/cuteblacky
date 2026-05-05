@@ -1,6 +1,3 @@
-
-
- 
 <!DOCTYPE html>
 <html lang="en-US">
 <head>
@@ -11,8 +8,8 @@
     <img src="https://github.com/louiemoreira76/imagens/raw/main/giphy.gif" height="450px" width="1500px"/>
 
 <div align="center">
-        <h1><img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" height="35px" alt="hello">I'm Cornelius, a frontend developer based in Brazil<img src="https://camo.githubusercontent.com/748433fbf833d18f543ad4bb6d8c8c4f7f340c7fe8b9706df131a525049f0c8c/68747470733a2f2f63756c746f667468657061727479706172726f742e636f6d2f706172726f74732f68642f6c6170746f705f706172726f742e676966" height="35px"/> <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif"/></h1>
-        <p align="left"> <img src="https://komarev.com/ghpvc/?username=louiemoreira76&label=Profile%20views&color=0e75b6&style=flat" alt="louiemoreira76" /> </p>
+        <h1><img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" height="35px" alt="hello">I'm Cornelius, a frontend developer based in Brazil</h1>
+        
     </div>
     
 <div>
